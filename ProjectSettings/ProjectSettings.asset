@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 48e33d873e9c9a44d9d56c792cd8416a
+  productGUID: 8a3383e6f1acc9d469dba2e3127b9c0e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: MidtermGi467
+  productName: Midterm467
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -837,14 +837,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: MidtermGi467
+  metroPackageName: Midterm467
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: MidtermGi467
+  metroApplicationDescription: Midterm467
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -915,10 +915,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: f36851d3-bd3b-4570-99ef-fcd236fc5c38
+  cloudProjectId: 67289a58-fe5e-4f44-b586-85f76555d506
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: MidtermGi467
+  projectName: Midterm467
   organizationId: unity_e40cbe5f2b892192522e
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
